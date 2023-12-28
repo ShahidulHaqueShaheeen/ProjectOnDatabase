@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.log-in{
+    margin: 50px;
+    padding: 100px;;
+}
+
+.log-in input{
+    font-size: 16px;
+    width: 100%;
+    padding: 15px 10px;
+    border: 0;
+    outline: none;
+    border-radius: 5px;
+    border: 2px solid #009688;
+}
+
+textarea{
+    font-size: 16px;
+    border: 2px solid #009688;
+    margin-top: 20px;
+}
+
+.log-in button{
+ width: 50%;
+ padding: 15px 0;
+}
+
+h1{
+    text-align: center;
+}
+
+.log-in{
+    margin: 10px;
+}
